@@ -1,0 +1,22 @@
+{
+  "name": "s3imageworker",
+  "version": "1.0.0",
+  "description": "Process S3 Images into thumbnails",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entourageyearbooks/S3ImageWorker.git"
+  },
+  "author": "Elias K. Jo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entourageyearbooks/S3ImageWorker/issues"
+  },
+  "homepage": "https://github.com/entourageyearbooks/S3ImageWorker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
